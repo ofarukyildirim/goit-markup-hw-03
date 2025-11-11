@@ -1,0 +1,129 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 700;
+    font-style: bold;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+}
+
+h3 {
+    font-weight: medium;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+}
+
+
+
+.h1-button:hover {
+    cursor: pointer;
+}
+
+.h1-button {
+    width: 169px;
+    height: 56px;
+    background-color: #4D5AE5;
+    color: white;
+    font-size: 16px;
+    font-weight: medium;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.ilk-sec{
+    
+    background-color: #2E2F42;
+    color: white;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+footer{
+   
+    background-color: #2E2F42;
+}
+
+.alt-duzen{
+    color: #F4F4FD;
+
+}
+
+.team{
+    background-color: #F4F4FD;
+}
+
+
+
+
+.logo-one{
+    color: #4D5AE5;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.logo-two{
+    color: #F4F4FD;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.logo-diffclr{
+    color: #2E2F42;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+}
+
+.nav-color{
+    color: #2E2F42;
+}
+
+.adres{
+    color: #434455;
+}
+
+.transform:hover{
+    color: #404BBF;
+}
+
+.transform:active{
+    color: #404BBF;
+    text-decoration: underline;
+}
+
+.changed:hover{
+    color: #404BBF;
+}
+
+.h1-button:hover{
+    background-color: #404BBF;
+}
