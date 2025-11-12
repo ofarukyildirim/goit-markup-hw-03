@@ -125,7 +125,7 @@ footer{
     letter-spacing: 0.03em;
 }
 
-.nav{
+.navi{
     color: #2E2F42;
     display: flex;
     gap: 40px;
@@ -144,6 +144,7 @@ footer{
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    gap: 40px;
 
 }
 
@@ -251,4 +252,10 @@ address {
 
 .portmid {
     text-align: center;
+}
+
+.nav-duzenle {
+    display: flex;
+    align-items: center;
+    gap: 72px;
 }
