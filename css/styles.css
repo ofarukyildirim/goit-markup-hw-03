@@ -9,7 +9,7 @@ img {
     
 }
 
-ul {
+* {
     margin: 0;
     padding: 0;
 }
@@ -70,6 +70,8 @@ h3 {
     
     background-color: #2E2F42;
     color: white;
+    padding-top: 188px;
+    padding-bottom: 188px;
     
 }
 
@@ -192,7 +194,7 @@ address {
 
  .texts {
     display: flex;
-    gap: 8px;
+    gap: 24px;
  }
 
 
@@ -222,7 +224,7 @@ address {
 
  .alt-duzen {
     width: 264px;
-    margin: 156px;
+    margin-left: 156px;
  }
 
  .team-card {
@@ -247,7 +249,7 @@ address {
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
-
+    row-gap: 48px;
  }
 
 .portmid {
@@ -259,3 +261,32 @@ address {
     align-items: center;
     gap: 72px;
 }
+
+.baslik{
+    margin-bottom: 48px;
+}
+
+.bosluk {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.left {
+    padding-left: 16px;
+}
+
+.bosluk h3 {
+    margin-bottom: 8px;
+}
+
+
+.baslik-altbosluk {
+    margin-bottom: 72px;
+}
+
+
+.ustmenu {
+   margin-top: 24px;
+   margin-bottom: 24px;
+}
+
