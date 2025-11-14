@@ -82,12 +82,9 @@ ul{
 footer{
    
     background-color: #2E2F42;
+    padding: 100px 0;
 }
 
-.alt-duzen{
-    color: #F4F4FD;
-
-}
 
 .team{
     background-color: #F4F4FD;
@@ -223,6 +220,7 @@ address {
  }
 
  .alt-duzen {
+    color: #F4F4FD;
     width: 264px;
     margin-left: 156px;
  }
@@ -290,3 +288,10 @@ address {
    margin-bottom: 24px;
 }
 
+.alt-duzen p {
+    margin-top: 16px;
+}
+
+.texts li h3 {
+    margin-bottom: 8px;
+}
